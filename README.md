@@ -49,6 +49,8 @@ To show a list of all movie and TV show names, select option 4 from the main men
 
 To delete an entry, select option 5 from the main menu. You will be presented with a list of entries to choose from. Enter the number of the entry you want to delete.
 
+------------
+
 
 ## [Download](https://github.com/Exonymos/Programs/releases/download/movietvshowmanage/Movie.and.TV.Show.Tracker.rar)
 
