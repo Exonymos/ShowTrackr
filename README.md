@@ -3,6 +3,10 @@
 
 > A simple python application for tracking movies and TV shows that you have watched or plan to watch. The program reads and writes data to a json file.
 
+
+![ShowTrackr](https://socialify.git.ci/Exonymos/ShowTrackr/image?description=1&descriptionEditable=A%20simple%20python%20application%20for%20tracking%20Movies%2FTV%20Shows%20that%20you%20have%20watched.&font=Source%20Code%20Pro&forks=1&issues=1&logo=https%3A%2F%2Fsvgshare.com%2Fi%2FrJs.svg&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
+
+
 ------------
 
 
