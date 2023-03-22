@@ -1,6 +1,5 @@
 
-# Movie and TV Show Tracker
-
+# ShowTrackr
 
 > A simple python application for tracking movies and TV shows that you have watched or plan to watch. The program reads and writes data to a json file.
 
@@ -24,12 +23,11 @@
 
 None required if you just want to use the exe file.
 
-
 ### How to use
 
 When you run the program, you will see the main menu with options to add, update, rename, show or delete an entry.
 
-Executable file location: `\Movie and TV Show Tracker\dist\Movie_and_TV_Show_Tracker.exe`
+Executable file location: `\ShowTrackr\dist\ShowTrackr.exe`
 
 #### Add an entry
 
@@ -51,6 +49,6 @@ To show a list of all movie and TV show names, select option 4 from the main men
 
 To delete an entry, select option 5 from the main menu. You will be presented with a list of entries to choose from. Enter the number of the entry you want to delete.
 
+
 ## [Download](https://github.com/Exonymos/Programs/releases/download/movietvshowmanage/Movie.and.TV.Show.Tracker.rar)
 
-**Project Link:** [https://github.com/Exonymos/Programs/](https://github.com/Exonymos/Programs/tree/main/Python%20Programs/Movie%20and%20TV%20Show%20Tracker)
