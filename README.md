@@ -56,5 +56,5 @@ To delete an entry, select option 5 from the main menu. You will be presented wi
 ------------
 
 
-## [Download](https://github.com/Exonymos/Programs/releases/download/movietvshowmanage/Movie.and.TV.Show.Tracker.rar)
+## [Download](https://github.com/Exonymos/ShowTrackr/releases/download/v2023.03.22/ShowTrackr.exe)
 
